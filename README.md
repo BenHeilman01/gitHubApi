@@ -1,6 +1,6 @@
 # gitHubApi
 
-A GitHub API to pull a GitHub user's followers. Just download the code and hit run.  It will ask you for a GitHub user, enter one to find their followers!
+A GitHub API to pull a GitHub user's followers. Just download the code and hit run.  It will ask you for a GitHub user, enter one to find their first five followers!
 
 Must know the exact spelling of the user.  Will only show the JSON return if it is your GitHub ID and you are signed in.
 
